@@ -1,0 +1,112 @@
+[
+    {
+        "score": 6,
+        "date": "2024-05-10 16:26:51",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 3,
+        "date": "2024-05-10 16:27:27",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 2,
+        "date": "2024-05-10 19:33:35",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 1,
+        "date": "2024-05-10 19:37:40",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 3,
+        "date": "2024-05-10 19:37:55",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 0,
+        "date": "2024-05-10 19:38:37",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 3,
+        "date": "2024-05-10 19:39:10",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 2,
+        "date": "2024-05-10 19:39:26",
+        "level": "Cryptography"
+    },
+    {
+        "score": 1,
+        "date": "2024-05-10 20:19:42",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 4,
+        "date": "2024-05-10 20:19:56",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 3,
+        "date": "2024-05-10 20:20:15",
+        "level": "Cryptography"
+    },
+    {
+        "score": 2,
+        "date": "2024-05-10 20:24:14",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 3,
+        "date": "2024-05-10 20:24:40",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 4,
+        "date": "2024-05-10 20:25:13",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 4,
+        "date": "2024-05-10 20:25:55",
+        "level": "Cryptography"
+    },
+    {
+        "score": 5,
+        "date": "2024-05-19 22:08:03",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 6,
+        "date": "2024-05-19 22:13:02",
+        "level": "Cryptography"
+    },
+    {
+        "score": 5,
+        "date": "2024-05-19 22:17:23",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 8,
+        "date": "2024-06-11 22:12:30",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 2,
+        "date": "2025-02-24 09:57:14",
+        "level": "Computer Malware"
+    },
+    {
+        "score": 5,
+        "date": "2025-06-30 14:46:12",
+        "level": "Cyber Attacks"
+    },
+    {
+        "score": 2,
+        "date": "2025-09-18 05:31:13",
+        "level": "Computer Malware"
+    }
+]
